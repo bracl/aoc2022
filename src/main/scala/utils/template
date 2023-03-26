@@ -1,0 +1,22 @@
+package utils
+
+import utils.IO._
+import utils.Utils.TakeUntilListWrapper
+import utils.Coord
+import utils.Coord.given_Conversion_Long_Int
+import utils.Coord.given_Conversion_Int_Long
+
+object dayDAY extends App {
+
+  val ex = readExample(DAY)
+  println(ex)
+  val xxx = readFile(DAY)
+  println(xxx)
+  
+
+
+  println("p1")
+
+  println("p2")
+
+}
